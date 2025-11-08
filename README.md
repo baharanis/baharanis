@@ -14,7 +14,7 @@ Menjadi developer yang bermanfaat dan berkontribusi untuk masyarakat melalui tek
 ## 🌐 Hubungi Saya
 - 📧 Email: Baharanis1207@gmail.com
 - 🚀 Media Sosial: starbebye
-- 💻 GitHub: [https://github.com/baharanis](https://github.com/baharanis)## Hi there 👋
+- 💻 GitHub: [https://github.com/baharanis](https://github.com/baharanis)
 
 <!--
 **baharanis/baharanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
